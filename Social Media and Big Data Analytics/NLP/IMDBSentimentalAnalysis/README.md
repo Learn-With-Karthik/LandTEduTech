@@ -1,6 +1,6 @@
 # Sentiment Analysis on IMDb Dataset - Kaggle Challenge
 
-This repository contains an implementation of sentiment analysis on the IMDb dataset using machine learning techniques, as demonstrated in the YouTube video ["Sentiment Analysis on IMDb Dataset | Kaggle Challenge Uncovered!"](https://www.youtube.com/watch?v=Y-RI0fWS2SY). The entire analysis is contained in a single Jupyter Notebook, `sentimentAnalysis.ipynb`.
+This repository contains an implementation of sentiment analysis on the IMDb dataset using machine learning techniques, as demonstrated in the YouTube video ["Sentiment Analysis on IMDb Dataset | Kaggle Challenge Uncovered!"](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) The entire analysis is contained in a single Jupyter Notebook, `sentimentAnalysis.ipynb`.
 
 ## Getting Started
 
